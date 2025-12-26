@@ -909,13 +909,13 @@ if (isBanned) return; // Ignore banned users completely
   }
  /* 
   app.get("/", (req, res) => {
-  res.send("KHAN STARTED ✅");
+  res.("SANCHO-XMD STARTED ✅");
   });
 */
   app.use(express.static(path.join(__dirname, 'lib')));
 
 app.get('/', (req, res) => {
-  res.redirect('/jawadtech.html');
+  res.redirect('/sanchotech.html');
 });
   app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
   setTimeout(() => {
