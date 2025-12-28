@@ -27,4 +27,50 @@
   
 ---
 
+## 🚀 Pairing Dashboard
+
+> Securely link your device using the official SANCHO-XMD pairing portals below: if connection issues may require vpn activation to fix this issue.
+
+ <div align="center">
+
+### 🌊  SESSION ID
+<p align="center">
+  <a href="https://sancho-xmd-session.onrender.com/">
+    <img src="https://img.shields.io/badge/💫_PAIR_GENERATOR_2-4F46E5?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1e1b4b" alt="Session id"/>
+  </a>
+</p>
+
+</div>
+
+## 📡 DEPLOYMENT SITES
+
+<p align="center">Deploy your <strong>SANCHO-XMD Bot</strong> with one click on your favorite hosting platforms.</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <!-- Heroku (with rocket logo on left) -->
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/sanchotech/SANCHO-XMD-" target="_blank">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=rocket&logoColor=white"/>
+</a></td>
+      <!-- Replit -->
+      <td><a href="https://replit.com/github/sanchotech/SANCHO-XMD-" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <!-- Koyeb -->
+      <td><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/sanchotech/SANCHO-XMD-" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <!-- Railway -->
+      <td><a href="https://railway.app/new/template?template=https://github.com/sanchotech/SANCHO-XMD-" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+    <tr>
+      <!-- Render (blue color theme) -->
+      <td><a href="https://render.com/deploy?repo=https://github.com/sanchotech/SANCHO-XMD-" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=007FFF"/></a></td>
+      <!-- Netlify -->
+      <td><a href="https://app.netlify.com/start/deploy?repository=https://github.com/sanchotech/SANCHO-XMD-" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+    </tr>
+  </table>
+</div>
+
+
+
 
