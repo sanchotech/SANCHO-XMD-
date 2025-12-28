@@ -23,7 +23,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/-✨_KHAN--MD_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/SANCHO-XMD-&link=https://github.com/SANCHO-XMD-" />
+  <img src="https://img.shields.io/badge/-✨_SANCHO--XMD_INSIGHTS_✨-yellow?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/SANCHO-XMD-&link=https://github.com/SANCHO-XMD-" />
 </h1>
 
 
