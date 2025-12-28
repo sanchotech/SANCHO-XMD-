@@ -91,9 +91,9 @@ async function loadSession() {
         console.log('[⏳] Downloading creds data...');
         console.log('[🔰] Downloading MEGA.nz session...');
         
-        // Remove "IK~" prefix if present, otherwise use full SESSION_ID
-        const megaFileId = config.SESSION_ID.startsWith('IK~') 
-            ? config.SESSION_ID.replace("IK~", "") 
+        // Remove "SANCHO-XMD;;;" prefix if present, otherwise use full SESSION_ID
+        const megaFileId = config.SESSION_ID.startsWith('SANCHO-XMD;;;') 
+            ? config.SESSION_ID.replace("SANCHO-XMD;;;", "") 
             : config.SESSION_ID;
 
         const filer = File.fromURL(`https://mega.nz/file/${megaFileId}`);
